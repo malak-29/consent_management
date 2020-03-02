@@ -1,5 +1,0 @@
-{
-  "extends": [
-    "../../../Build/JavaScript/.eslintrc-svc.json"
-  ]
-}
